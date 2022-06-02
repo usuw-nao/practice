@@ -1,0 +1,11 @@
+https://chrome.google.com/webstore/detail/notion-web-clipper/knheggckgoiihginacbkhaalnibhilkk
+notion
+
+cat: /tmp/ruby-build.20220510142541.3677.log: No such file or directory
+3
+
+cat /tmp/ruby-build.20220510142541.3677.log | grep permit
+2
+
+sudo yum install perl-IPC-Cmd -y
+1
